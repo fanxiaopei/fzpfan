@@ -1,4 +1,8 @@
-
+## 
+   gcc -fPIC -c file1.c file2.c ....... is_empty.c
+## static library
+## pack
+    ar rs libstack.a file1.o file2.o ...... .
 ##Debug
     hexdump show the hex code of a file.
 ##After install nvidia x driver
